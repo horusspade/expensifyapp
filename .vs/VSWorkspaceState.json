@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
+    "\\server",
     "\\src\\actions",
     "\\src\\components",
     "\\src\\selectors",
     "\\src\\tests",
     "\\src\\tests\\components",
     "\\src\\tests\\components\\__snapshots__",
-    "\\src\\tests\\fixtures",
-    "\\src\\tests\\selectors"
+    "\\src\\tests\\fixtures"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
