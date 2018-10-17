@@ -9,9 +9,8 @@
     "\\src\\tests\\components",
     "\\src\\tests\\components\\__snapshots__",
     "\\src\\tests\\fixtures",
-    "\\src\\tests\\selectors",
-    "\\src\\tests\\__mocks__"
+    "\\src\\tests\\selectors"
   ],
-  "SelectedNode": "\\src\\tests\\components\\ExpenseForm.test.js",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
