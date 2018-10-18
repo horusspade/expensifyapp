@@ -2,7 +2,8 @@
   "name": "indecision-app",
   "version": "1.0.0",
   "engines": {
-    "node": "8.12.0"
+    "node": "8.12.0",
+    "npm": "6.4.1"
   },
   "main": "index.js",
   "author": "Eshane",
@@ -47,7 +48,7 @@
     "react-router-dom": "4.2.2",
     "react-test-renderer": "16.0.0",
     "redux": "3.7.2",
-    "sass-loader": "6.0.6",
+    "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
     "uuid": "^3.3.2",
     "validator": "10.7.1",
