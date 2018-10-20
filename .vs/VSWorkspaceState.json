@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\server",
     "\\src",
+    "\\src\\actions",
     "\\src\\components",
-    "\\src\\store"
+    "\\src\\firebase",
+    "\\src\\store",
+    "\\src\\tests",
+    "\\src\\tests\\actions",
+    "\\src\\tests\\components"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\tests\\components\\AddExpensePage.test.js",
   "PreviewInSolutionExplorer": false
 }
