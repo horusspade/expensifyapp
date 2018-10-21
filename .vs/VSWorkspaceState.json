@@ -3,14 +3,14 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\actions",
-    "\\src\\components",
-    "\\src\\firebase",
-    "\\src\\store",
-    "\\src\\tests",
+    "\\src\\reducers",
+    "\\src\\routers",
+    "\\src\\selectors",
     "\\src\\tests\\actions",
-    "\\src\\tests\\components"
+    "\\src\\tests\\fixtures",
+    "\\src\\tests\\reducers",
+    "\\src\\tests\\selectors"
   ],
-  "SelectedNode": "\\src\\tests\\components\\AddExpensePage.test.js",
+  "SelectedNode": "\\src\\app.js",
   "PreviewInSolutionExplorer": false
 }

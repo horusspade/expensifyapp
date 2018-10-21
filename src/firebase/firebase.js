@@ -14,7 +14,8 @@ firebase.initializeApp(config);
 const database = firebase.database();
 
 export { firebase, database as default };
-    
+
+//console.log(database.ref('expenses').;    
 //database.ref('expenses')
 //    .on('value', (snapshot) => {
 //        const expenses = [];
@@ -127,6 +128,7 @@ export { firebase, database as default };
 //    });
 
 //database.ref().set({
+    
 //    name: 'spade joseph',
 //    age: 31,
 //    stressLevel: 6,
