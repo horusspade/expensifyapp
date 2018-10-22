@@ -2,15 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\scripts",
     "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\firebase",
     "\\src\\reducers",
-    "\\src\\routers",
-    "\\src\\selectors",
+    "\\src\\store",
+    "\\src\\tests",
     "\\src\\tests\\actions",
-    "\\src\\tests\\fixtures",
-    "\\src\\tests\\reducers",
-    "\\src\\tests\\selectors"
+    "\\src\\tests\\components",
+    "\\src\\tests\\reducers"
   ],
-  "SelectedNode": "\\src\\app.js",
+  "SelectedNode": "\\src\\components\\ExpenseDashBoardPage.js",
   "PreviewInSolutionExplorer": false
 }
