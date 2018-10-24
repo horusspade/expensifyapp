@@ -2,18 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\images",
     "\\public\\scripts",
     "\\src",
     "\\src\\actions",
     "\\src\\components",
-    "\\src\\firebase",
-    "\\src\\reducers",
-    "\\src\\store",
-    "\\src\\tests",
-    "\\src\\tests\\actions",
-    "\\src\\tests\\components",
-    "\\src\\tests\\reducers"
+    "\\src\\styles",
+    "\\src\\styles\\base",
+    "\\src\\styles\\components"
   ],
-  "SelectedNode": "\\src\\components\\ExpenseDashBoardPage.js",
+  "SelectedNode": "\\src\\styles\\base\\_settings.scss",
   "PreviewInSolutionExplorer": false
 }
