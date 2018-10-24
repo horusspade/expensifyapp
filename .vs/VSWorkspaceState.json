@@ -7,10 +7,10 @@
     "\\src",
     "\\src\\actions",
     "\\src\\components",
+    "\\src\\routers",
     "\\src\\styles",
-    "\\src\\styles\\base",
-    "\\src\\styles\\components"
+    "\\src\\styles\\base"
   ],
-  "SelectedNode": "\\src\\styles\\base\\_settings.scss",
+  "SelectedNode": "\\src\\styles\\components\\_page-header.scss",
   "PreviewInSolutionExplorer": false
 }
