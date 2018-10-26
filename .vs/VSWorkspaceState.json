@@ -9,8 +9,8 @@
     "\\src\\components",
     "\\src\\routers",
     "\\src\\styles",
-    "\\src\\styles\\base"
+    "\\src\\styles\\components"
   ],
-  "SelectedNode": "\\src\\styles\\components\\_page-header.scss",
+  "SelectedNode": "\\src\\components\\ExpenseForm.js",
   "PreviewInSolutionExplorer": false
 }
